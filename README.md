@@ -1,2 +1,2 @@
 # Two Sigma Financial Modeling Competition
-Two Sigma Financial modeling challenge from kaggle (https://www.kaggle.com/c/two-sigma-financial-modeling)
+Two Sigma Financial modeling challenge hosted by Kaggle (https://www.kaggle.com/c/two-sigma-financial-modeling)
